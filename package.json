@@ -1,0 +1,22 @@
+{
+    "name"        : "my-boilerplate",
+    "version"     : "0.1.0",
+
+    "author"      : "Kersten Burkhardt <burkhardt@nurago.com>",
+    "description" : "My own boilerplate for node, bootstrap and backbone",
+
+    "dependencies": {
+        "jslint"            : "*",
+        "uglify-js"         : "*",
+        "express"           : "3.x",
+        "consolidate"       : "*",
+        "hogan.js"          : "*",
+        "less-middleware"   : "*",
+        "bootstrap"         : "git://github.com/twitter/bootstrap.git#v2.1.1"
+    },
+
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    }
+}

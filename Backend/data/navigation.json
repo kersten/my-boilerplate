@@ -1,0 +1,19 @@
+{
+    "brand": {
+        "link": "#!/home",
+        "img": "/img/logo.jpg",
+        "route" : "start"
+    },
+
+    "navigation": [
+        {
+            "name": "Start",
+            "link": "#!/start",
+            "route" : "start"
+        }, {
+            "name": "About",
+            "link": "#!/about",
+            "route" : "about"
+        }
+    ]
+}
