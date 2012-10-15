@@ -12,7 +12,8 @@
         "consolidate"       : "*",
         "hogan.js"          : "*",
         "less-middleware"   : "*",
-        "bootstrap"         : "git://github.com/twitter/bootstrap.git#v2.1.1"
+        "bootstrap"         : "git://github.com/twitter/bootstrap.git#v2.1.1",
+        "underscore"        : "*"
     },
 
     "engines": {
