@@ -2,7 +2,7 @@
     "name"        : "my-boilerplate",
     "version"     : "0.1.0",
 
-    "author"      : "Kersten Burkhardt <burkhardt@nurago.com>",
+    "author"      : "Kersten Burkhardt <kerstenk@gmail.com>",
     "description" : "My own boilerplate for node, bootstrap and backbone",
 
     "dependencies": {
